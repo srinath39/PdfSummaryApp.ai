@@ -43,7 +43,7 @@ function App() {
         {/* LEFT PANEL */}
         <div className="bg-white/70 rounded-2xl p-6 shadow-md border border-blue-100">
           <h1 className="text-3xl font-bold text-sky-700 mb-6 flex items-center gap-2">
-            ☁️ AI PDF Summary 
+            ☁️ PdfSummary.ai
           </h1>
 
           <label className="group cursor-pointer flex flex-col items-center justify-center border-2 border-dashed border-sky-300 rounded-xl p-8 transition hover:bg-sky-50">
